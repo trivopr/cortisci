@@ -1,0 +1,1 @@
+# Cortisci Skeleton Application framework for Hybrid Apps Development.
